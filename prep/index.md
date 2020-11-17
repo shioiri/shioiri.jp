@@ -1,10 +1,10 @@
 ### もくじ
 
-[項目1](#項目1)
+[塩入友広とは](#塩入友広とは)
 
 [項目2](#項目2)
 
-## 項目1
+## 塩入友広とは？
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 問題解決に必要な情報、知識を短時間に習得する能力。まず自分の知識としてからユーザさまへの説明にあたるため。
 
-お約束
+お約束　５つの約束
 
 SNSを活用し、活動内容の広報を行います。
 
@@ -37,3 +37,45 @@ SNSを活用し、活動内容の広報を行います。
 地元の会社で入ったが今では遠くの会社
 
 思い入れも少なくなってしまった
+
+
+
+
+
+
+
+
+
+今を生きる人たちのため
+
+交通網整備
+
+この時代を造ってきた人たちのため
+
+文化財の保全
+
+これからの時代を担う人たちのため
+
+地域（塩田西小学校区域）のため
+
+上田市のため
+
+
+
+
+地域保水力の向上。落ち葉の徹底処理、水質の中性化、（理念に効果があるか学術的な調査、研究を行う。）
+
+交通網整備。処方薬の宅配等、法的、経済的に実行可能か調査、研究を行う。可能性を
+
+スクールバス
+
+週末タウンミーティングの主催
+
+農産物の商品化支援
+
+起業支援（レストラン、パン、カフェ）
+
+パークランイベント
+
+ランナー、チャリダーの招致
+駐車場、軽食の提供等、交通安全誘導
