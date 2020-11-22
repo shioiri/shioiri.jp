@@ -1,6 +1,6 @@
 Welcome to my homepage.
 
-- [しおいり◆ブログ (My weblog)](https://shioiri.hatenadiary.org/)
+- [しおいり◆ブログ (My weblog)](https://smile.shioiri.jp/)
 - [@shioiri on Twitter](https://twitter.com/shioiri/)
 - [@shioiri on Instagram](https://instagram.com/shioiri/)
 - [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri/)
