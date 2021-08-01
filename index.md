@@ -5,6 +5,7 @@ Welcome to my homepage.
 - [@shioiri on Instagram](https://instagram.com/shioiri/)
 - [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri/)
 - [@shioiri on Twilog](https://twilog.org/shioiri)
+- [@shioiri on note](https://note.com/shioiri)
 
 Tomohiro Shioiri  
 塩入友広
