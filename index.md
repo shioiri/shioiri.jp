@@ -1,9 +1,10 @@
 Welcome to my homepage.
 
-- [しおいり◆ブログ (My weblog)](https://smile.shioiri.jp/) ほとんど更新停止中
-- [@shioiri on Twitter](https://twitter.com/shioiri/)
-- [@shioiri on Instagram](https://instagram.com/shioiri/)
-- [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri/)
+- [しおいり◆ブログ (My weblog)](https://smile.shioiri.jp) ほとんど更新停止中
+- [SHIOIRI Tomohiro on Google Sites](https://sites.google.com/view/shioiri)
+- [@shioiri on Twitter](https://twitter.com/shioiri)
+- [@shioiri on Instagram](https://instagram.com/shioiri)
+- [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri)
 - [@shioiri on Twilog](https://twilog.org/shioiri)
 - [@shioiri on note](https://note.com/shioiri)
 
