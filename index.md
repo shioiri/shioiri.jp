@@ -17,3 +17,4 @@ SHIOIRI Tomohiro
 塩入友広
 
 <img src="https://ss1.xrea.com/shioiri.s1001.xrea.com/x/cgi-bin/npc/npc.cgi?i=/virtual/shioiri/npc.idx&L=shioiri&p=on&d=1000,0">
+<a rel="me" href="https://mas.to/@shioiri">Mastodon</a>
