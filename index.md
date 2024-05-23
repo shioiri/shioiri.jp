@@ -12,7 +12,7 @@ Welcome to my homepage.
 - [shioiri on note](https://note.com/shioiri)
 - [shioiri on GitHub](https://github.com/shioiri)
 - [shioiri on Reddit](https://www.reddit.com/user/shioiri)
-<a rel="me" href="https://mas.to/@shioiri">shioiri on Mastodon</a>
+- <a rel="me" href="https://mas.to/@shioiri">shioiri on Mastodon</a>
 
 SHIOIRI Tomohiro
 塩入友広
