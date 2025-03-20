@@ -2,9 +2,10 @@
 title: 塩入友広について、もっと詳しく
 ---
 
-作成中です。2025年4月より公開予定です。
+現在、作成中です。
 
 - [しおいり通信](https://shioiri.theletter.jp/)
+
 メールマガジンの発行を予定しています。購読をご希望の方は[こちら](https://shioiri.theletter.jp/)からご登録いただけます。
 
 - [shioiri on Instagram](https://instagram.com/shioiri)
