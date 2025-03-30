@@ -5,7 +5,7 @@ title: Go Forward with SHIOIRI
 ## 新しい発想で、本質的な解決を
 ### Fresh Ideas, Simple Solutions
 
-工作機械メーカーでの制御設計の経験を活かし、私は常にシンプルで効率的な方法で問題を解決することに注力しています。  
+工作機械メーカーで制御設計に携わる私は私は、常にシンプルで効率的な方法で問題を解決することに注力しています。  
 技術者の視点から、ムダを省き、実行可能な効率的な解決策を提案し続けます。
 
 With years of experience in control design at a machine tool manufacturer, I focus on solving problems with simple and efficient methods. From a technical perspective, I will continue to propose efficient solutions that eliminate waste and are easy to implement.
