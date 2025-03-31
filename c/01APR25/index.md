@@ -33,7 +33,7 @@ To help the local economy grow, we need to support industries that can work with
 
 ## 平和の願いを、次世代へ
 
-私の祖父はサイパンで戦士しています。    
+私の祖父はサイパンで戦死しています。    
 祖父をはじめ、戦争で命を落とした方々への感謝と平和の大切さを次世代に伝えることが、私の使命だと感じています。平和を願う気持ちを次の世代へしっかりと受け継ぎ、戦争の悲劇が繰り返されないように努めていきます。
 
 ### A Commitment to Peace, Passed Down to Future Generations
@@ -48,3 +48,6 @@ I lost my grandfather in the war, in Saipan. It is my mission to honor those who
 
 As a disaster prevention expert, I have been working to strengthen local disaster response measures. Preparedness begins with raising awareness in daily life. It is essential to create systems that ensure swift response during disasters and foster collaboration within the community. I propose more practical disaster prevention measures to improve crisis management capabilities and strengthen cooperation among residents.
 
+SHIOIRI Tomohiro  
+塩入友広  
+2025-04-01

@@ -2,9 +2,28 @@
 title: 塩入友広について、もっと詳しく
 ---
 
-塩入友広 SHIOIRI Tomohiro
+塩入友広 SHIOIRI Tomohiro 
 
-現職
+- [しおいり通信](https://shioiri.theletter.jp/)（準備中）
+
+メールマガジンの発行を予定しています。購読をご希望の方は[こちら](https://shioiri.theletter.jp/)からご登録いただけます。
+
+- [こころざし](https://shioiri.jp/d) -- English Available
+
+- [shioiri on Instagram](https://instagram.com/shioiri)
+- [shioiri on Bluesky](https://bsky.app/profile/shioiri.jp)
+- [shioiri on タイッツー](https://taittsuu.com/users/shioiri)
+- [shioiri on Threads](https://www.threads.net/@shioiri)
+- [しおいり◆ブログ (My weblog)](https://shioiri.wordpress.com)
+- [SHIOIRI Tomohiro on Google Sites](https://sites.google.com/view/shioiri)
+- [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri)
+- [shioiri on Twilog](https://twilog.org/shioiri)
+- [shioiri on note](https://note.com/shioiri)
+- [shioiri on GitHub](https://github.com/shioiri)
+- [shioiri on Reddit](https://www.reddit.com/user/shioiri)
+- [shioiri on Mastodon](https://mas.to/@shioiri)
+
+## 現職
 
 - シチズンマシナリー株式会社（御代田町）勤務
 
@@ -25,7 +44,7 @@ title: 塩入友広について、もっと詳しく
 
 （もっと詳しく…後日追記）
 
-### 学歴
+## 学歴
 
 1972年4月〜1975年3月 桃園幼稚園  
 1975年4月〜1981年3月 東京都中野区立桃園第三小学校  
@@ -34,7 +53,7 @@ title: 塩入友広について、もっと詳しく
 1984年4月〜1987年3月 長野県上田千曲高等学校電気科  
 2023年10月〜　放送大学教養学部 社会と産業コース在学中  
 
-### 職歴
+## 職歴
 
 高校生のときアルバイト先でミヤノの自動旋盤と出会い、入社〜商品開発部へ配属以降、出向、転籍、会社合併等々、いろいろありましたが、組み立てから設計、修理まで電気制御ひとすじ38年。この間に日本全国津々浦々、海外は24か国、アメリカは48州に足跡をつけてきました。（英国はイングランド、ウェールズ、スコットランド、北アイルランドの4か国と数えています）
 
@@ -49,24 +68,8 @@ title: 塩入友広について、もっと詳しく
 2014年4月〜2015年3月 シチズンマシナリーミヤノ株式会社（御代田町）  
 2015年4月〜現在 シチズンマシナリー株式会社  
 
-- [しおいり通信](https://shioiri.theletter.jp/)
 
-メールマガジンの発行を予定しています。購読をご希望の方は[こちら](https://shioiri.theletter.jp/)からご登録いただけます。
 
-- [shioiri on Instagram](https://instagram.com/shioiri)
-- [shioiri on Bluesky](https://bsky.app/profile/shioiri.jp)
-- [shioiri on タイッツー](https://taittsuu.com/users/shioiri)
-- [shioiri on Threads](https://www.threads.net/@shioiri)
-- [しおいり◆ブログ (My weblog)](https://shioiri.wordpress.com)
-- [SHIOIRI Tomohiro on Google Sites](https://sites.google.com/view/shioiri)
-- [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri)
-- [shioiri on Twilog](https://twilog.org/shioiri)
-- [shioiri on note](https://note.com/shioiri)
-- [shioiri on GitHub](https://github.com/shioiri)
-- [shioiri on Reddit](https://www.reddit.com/user/shioiri)
-- [shuoiri on Mastodon](https://mas.to/@shioiri)
-
-SHIOIRI Tomohiro
-塩入友広
-
-2025-03-27
+SHIOIRI Tomohiro  
+塩入友広  
+2025-04-01
