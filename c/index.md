@@ -8,7 +8,7 @@ title: 塩入友広について、もっと詳しく
 
 メールマガジンの発行を予定しています。購読をご希望の方は[こちら](https://shioiri.theletter.jp/)からご登録いただけます。
 
-- [こころざし](https://shioiri.jp/d) -- English Available
+- [こころざし](https://shioiri.jp/01APR25) -- English Available
 
 - [shioiri on Instagram](https://instagram.com/shioiri)
 - [shioiri on Bluesky](https://bsky.app/profile/shioiri.jp)
