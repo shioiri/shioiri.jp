@@ -2,6 +2,7 @@
 layout: default
 title: テスト
 description: Go Forward with SHIOIRI
+header_text: サブページ専用の看板タイトル
 ---
 
 ## 新しい発想で、本質的な解決を
