@@ -1,6 +1,5 @@
-
----
-title: Go Forward with SHIOIRI
+title: テスト
+description: Go Forward with SHIOIRI
 ---
 
 ## 新しい発想で、本質的な解決を
