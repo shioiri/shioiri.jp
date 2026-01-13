@@ -11,6 +11,8 @@ header_text: 塩入友広後援会
 
 お読みいただいて、ご意見などいただけると嬉しいです。
 
+
+
 ## 入会の申込み
 
 - [こちら](https://forms.gle/sAmhh3RwXyQQmWHj7) からお申し込みいただけます。
@@ -24,6 +26,8 @@ header_text: 塩入友広後援会
 ## 塩入友広の政策
 
 ご意見をお寄せください。
+
+<iframe src='https://shioiri.theletter.jp/embed' height='200px' frameborder='0' scrolling='no'></iframe>
 
 ### 新しい発想で、本質的な解決を
 
