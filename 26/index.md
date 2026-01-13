@@ -14,7 +14,10 @@ header_text: 塩入友広後援会
 
 ## 後援会入会の申込み
 
-- [こちら](https://forms.gle/sAmhh3RwXyQQmWHj7) からお申し込みいただけます。
+- [こちら](https://forms.gle/sAmhh3RwXyQQmWHj7) からお申し込みいただけます。  
+もしくは、ご記入いただいたお手元の「入会申込書」の写真をメールでお送りください。
+
+送り先　[kk@shioiri.jp](mailto:kk@shioiri.jp) 
 
 ## 後援会活動方針
 
