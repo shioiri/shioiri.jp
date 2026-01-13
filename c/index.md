@@ -4,9 +4,7 @@ title: 塩入友広について、もっと詳しく
 
 塩入友広 SHIOIRI Tomohiro 
 
-- [しおいり通信](https://shioiri.theletter.jp/)（準備中）
-
-メールマガジンの発行を予定しています。購読をご希望の方は[こちら](https://shioiri.theletter.jp/)からご登録いただけます。
+- [しおいり通信](https://shioiri.theletter.jp/)
 
 - [こころざし](https://shioiri.jp/c/01APR25) -- English Available
 
