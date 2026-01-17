@@ -7,7 +7,7 @@ header_text: 塩入友広後援会
 
 ## しおいり通信発行中
 
-<iframe src='https://shioiri.theletter.jp/embed' height='200px' frameborder='0' scrolling='no'></iframe>
+<iframe src='https://shioiri.theletter.jp/embed' height='240px' frameborder='0' scrolling='no'></iframe>
 
 - 塩入友広より、政策への想いや日々の活動をメールでお届けします。  
 ぜひご登録ください。
