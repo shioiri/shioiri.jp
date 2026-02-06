@@ -1,8 +1,8 @@
 ---
 layout: default
-title: しおいりせんきょ
-description: しおいりせんきょ
-header_text: しおいりせんきょ
+title: しおいり せんきょ
+description: しおいり せんきょ
+header_text: しおいり せんきょ
 ---
 
-test page
+- しおいり せんきょ
