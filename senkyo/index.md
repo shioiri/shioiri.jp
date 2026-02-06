@@ -1,8 +1,8 @@
 ---
 layout: default
-title: しおいり せんきょ
-description: しおいり せんきょ
-header_text: しおいり せんきょ
+title: 塩入友広 特設サイト しおいり せんきょ
+description: 塩入友広 特設サイト しおいり せんきょ
+header_text: 塩入友広 特設サイト しおいり せんきょ
 ---
 
 こちらはテストページです。
