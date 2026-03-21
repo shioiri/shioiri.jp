@@ -5,7 +5,10 @@ description: Go Forward with SHIOIRI
 header_text: 塩入友広後援会
 ---
 
-[選挙期間の特設サイトはこちら](https://shioiri.jp/senkyo)
+<img src="2290.png" width="300">  
+<!--上田市議会議員候補　しおいり友広 -->
+
+<!-- [選挙期間の特設サイトはこちら](https://shioiri.jp/senkyo) -->
 
 ## しおいり通信発行中
 
