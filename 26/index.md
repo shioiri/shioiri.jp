@@ -5,6 +5,8 @@ description: Go Forward with SHIOIRI
 header_text: 塩入友広後援会
 ---
 
+[選挙期間の特設サイトはこちら](https://shioiri.jp/senkyo)
+
 ## しおいり通信発行中
 
 <iframe src='https://shioiri.theletter.jp/embed' height='200px' frameborder='0' scrolling='no'></iframe>
