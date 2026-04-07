@@ -7,6 +7,15 @@ header_text: shioiri.jp
 
 [🌐 English here](https://shioiri.jp/en)
 
+塩入友広（しおいり ともひろ）のウェブサイトへようこそ。
+
+## NEWS
+
+- テスト
+- テスト
+
+## SNS
+
 - [shioiri on X](https://x.com/shioiri)
 - [shioiri on Instagram](https://instagram.com/shioiri)
 - [shioiri on Bluesky](https://bsky.app/profile/shioiri.jp)
