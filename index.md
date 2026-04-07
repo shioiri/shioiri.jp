@@ -5,32 +5,39 @@ description: 塩入友広（しおいり ともひろ）のウェブサイトで
 header_text: shioiri.jp
 ---
 
-[🌐 English here](https://shioiri.jp/en)
+[🌐 English](https://shioiri.jp/en)
 
 塩入友広（しおいり ともひろ）のウェブサイトへようこそ。
 
-## NEWS
+## お知らせ
 
-- テスト
-- テスト
+- 第6期 上田市議会議員として活動を開始いたしました。(2026-04-09)
+
+## Blog ブログ
+
+- [しおいり◆ブログ](https://smile.shioiri.jp)
+
+## ニュースレター
+
+- [しおいり通信](https://shioiri.theletter.jp)
 
 ## SNS
 
-- [shioiri on X](https://x.com/shioiri)
-- [shioiri on Instagram](https://instagram.com/shioiri)
-- [shioiri on Bluesky](https://bsky.app/profile/shioiri.jp)
-- [shioiri on タイッツー](https://taittsuu.com/users/shioiri)
-- [shioiri on Threads](https://www.threads.net/@shioiri)
-- [しおいり◆ブログ (My weblog)](https://shioiri.wordpress.com)
-- [SHIOIRI Tomohiro on Google Sites](https://sites.google.com/view/shioiri)
-- [塩入友広 on Facebook](https://www.facebook.com/tomohiro.shioiri)
-- [shioiri on Twilog](https://twilog.org/shioiri)
-- [shioiri on note](https://note.com/shioiri)
+- [Facebook](https://www.facebook.com/tomohiro.shioiri)
+- [X](https://x.com/shioiri)
+- [Instagram](https://instagram.com/shioiri)
+- [Bluesky](https://bsky.app/profile/shioiri.jp)
+- [Threads](https://www.threads.net/@shioiri)
+- [タイッツー](https://taittsuu.com/users/shioiri)
+- <a rel="me" href="https://mas.to/@shioiri">Mastodon</a>
+- [Reddit](https://www.reddit.com/user/shioiri)
+- [note](https://note.com/shioiri)
+- [はてな](https://profile.hatena.ne.jp/shioiri)
+
+## Others その他
+
+- [Google Sites](https://sites.google.com/view/shioiri)
 - [shioiri on GitHub](https://github.com/shioiri)
-- [shioiri on Reddit](https://www.reddit.com/user/shioiri)
-- <a rel="me" href="https://mas.to/@shioiri">shioiri on Mastodon</a>
 
-SHIOIRI Tomohiro
-塩入友広
-
-<img src="https://ss1.xrea.com/shioiri.s1001.xrea.com/x/cgi-bin/npc/npc.cgi?i=/virtual/shioiri/npc.idx&L=shioiri&p=on&d=1000,0">
+***
+[shioiri@gmail.com](mailto:shioiri@gmail.com)
