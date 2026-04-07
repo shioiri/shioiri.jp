@@ -1,4 +1,11 @@
-Welcome to my homepage.
+---
+layout: default
+title: shioiri.jp
+description: 塩入友広（しおいり ともひろ）のウェブサイトです。長野県上田市。SHIOIRI Tomohiro Homepage, Ueda, Nagano, Japan
+header_text: shioiri.jp
+---
+
+[🌐 English here](https://shioiri.jp/en)
 
 - [shioiri on X](https://x.com/shioiri)
 - [shioiri on Instagram](https://instagram.com/shioiri)
