@@ -31,7 +31,7 @@ header_text: shioiri.jp
 - <a rel="me" href="https://mas.to/@shioiri">Mastodon</a>
 - [Reddit](https://www.reddit.com/user/shioiri)
 - [note](https://note.com/shioiri)
-- [はてな](https://profile.hatena.ne.jp/shioiri)
+- [はてな](https://profile.hatena.ne.jp/shioiri/)
 
 ## ブログ
 
