@@ -18,7 +18,7 @@ header_text: shioiri.jp
 
 ## 活動報告・公式ニュースレター（無料購読）
 
-市政の複雑な課題や議会分析を、技術者の視点でロジカルに解説するニュースレターを定期配信しています。登録いただくと直接メールに届きます。
+市政の複雑な課題や議会分析を、技術者の視点でロジカルに解説するニュースレターを配信しています。登録いただくと直接メールに届きます。
 
 - **[しおいり通信（theLetter）を読む・登録する](https://shioiri.theletter.jp)**
 
@@ -26,7 +26,7 @@ header_text: shioiri.jp
 
 市民の皆様とのコミュニケーションや、日々の迅速な活動報告は以下のプラットフォームを中心に行っています。
 
-- **[Facebookページ（公式活動速報）](https://www.facebook.com/tomohiro.shioiri)**
+- **[Facebookページ（公式活動速報）](https://www.facebook.com/shioiri.tomohiro)**
 - **[Threads（地域の話題・日常の気づき）](https://www.threads.net/@shioiri)**
 
 ---
