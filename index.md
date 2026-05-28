@@ -16,31 +16,20 @@ header_text: shioiri.jp
 - 令和6年3月29日執行 上田市議会議員一般選挙に立候補いたしました。（2026-03-22）
 - シチズンマシナリー株式会社を退職いたしました。（2025-12-26）
 
-## ニュースレター
+## 活動報告・公式ニュースレター（無料購読）
 
-- [しおいり通信](https://shioiri.theletter.jp)
+市政の複雑な課題や議会分析を、技術者の視点でロジカルに解説するニュースレターを定期配信しています。登録いただくと直接メールに届きます。
 
-## SNS
+- **[しおいり通信（theLetter）を読む・登録する](https://shioiri.theletter.jp)**
 
-- [Facebook](https://www.facebook.com/tomohiro.shioiri)
-- [X](https://x.com/shioiri)
-- [Instagram](https://instagram.com/shioiri)
-- [Bluesky](https://bsky.app/profile/shioiri.jp)
-- [Threads](https://www.threads.net/@shioiri)
-- [タイッツー](https://taittsuu.com/users/shioiri)
-- <a rel="me" href="https://mas.to/@shioiri">Mastodon</a>
-- [Reddit](https://www.reddit.com/user/shioiri)
-- [note](https://note.com/shioiri)
-- [はてな](https://profile.hatena.ne.jp/shioiri/)
+## 公式SNS（日々の活動速報）
 
-## ブログ
+市民の皆様とのコミュニケーションや、日々の迅速な活動報告は以下のプラットフォームを中心に行っています。
 
-- [しおいり◆ブログ](https://smile.shioiri.jp)
+- **[Facebookページ（公式活動速報）](https://www.facebook.com/tomohiro.shioiri)**
+- **[Threads（地域の話題・日常の気づき）](https://www.threads.net/@shioiri)**
 
-## その他
-
-- [Google Sites](https://sites.google.com/view/shioiri)
-- [GitHub](https://github.com/shioiri)
+---
 
 ## 政策
 
@@ -77,6 +66,8 @@ header_text: shioiri.jp
 災害への備えは、発生してからの対応ではなく、平時の準備で決まります。
 私は防災士として、実践的な防災教育と、いざという時に地域が助け合えるネットワーク作りを推進します。
 行政のハード整備と、地域のソフトパワー（絆）を組み合わせ、想定外の事態にも動じない、強靭で安全な地域づくりを目指します。
+
+---
 
 ## プロフィール
 
@@ -122,6 +113,15 @@ header_text: shioiri.jp
 第三級アマチュア無線技士  
 アマチュア無線局 JE0EQH  
 防災士 
+
+---
+
+## 技術者向け・趣味のアカウント、過去のログ
+
+個人の知的好奇心に基づく技術的な交流、趣味、および過去のテキストアーカイブです。
+
+- **SNS（その他）:** [X](https://x.com/shioiri) | [Instagram](https://instagram.com/shioiri) | [Bluesky](https://bsky.app/profile/shioiri.jp) | [タイッツー](https://taittsuu.com/users/shioiri) | <a rel="me" href="https://mas.to/@shioiri">Mastodon</a> | [Reddit](https://www.reddit.com/user/shioiri)
+- **テキストアーカイブ・その他:** [しおいり◆ブログ](https://smile.shioiri.jp) | [note](https://note.com/shioiri) | [はてな](https://profile.hatena.ne.jp/shioiri/) | [Google Sites](https://sites.google.com/view/shioiri) | [GitHub](https://github.com/shioiri)
 
 ***
 MMXXVI SHIOIRI Tomohiro [shioiri@gmail.com](mailto:shioiri@gmail.com)
