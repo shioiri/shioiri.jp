@@ -1,7 +1,7 @@
 ---
 layout: default
 title: shioiri.jp
-description: 塩入友広（しおいり ともひろ）のウェブサイトです。長野県上田市。SHIOIRI Tomohiro Homepage, Ueda, Nagano, Japan
+description: 塩入友広（しおいりともひろ / shioiri）の公式ウェブサイト。長野県上田市の地域活性化に向けた政策や議会活動の報告、市民の皆様へのメッセージを発信しています。上田市の価値向上に全力を尽くします。
 header_text: shioiri.jp
 ---
 
