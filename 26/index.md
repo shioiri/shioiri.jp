@@ -15,7 +15,7 @@ header_text: 塩入友広後援会
 <iframe src='https://shioiri.theletter.jp/embed' height='200px' frameborder='0' scrolling='no'></iframe>
 
 - 塩入友広より、政策への想いや日々の活動をメールでお届けします。  
-ぜひご登録ください。
+ぜひご登録ください。　
 - バックナンバーは [こちら](https://shioiri.theletter.jp) からお読みいただけます。
 
 ## 後援会入会の申込み
