@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>テスト - Tomohiro Shioiri Archive</title>
+    <!-- 既存のローカルCSS（資産）を最優先で読み込み -->
+    <link rel="stylesheet" href="../../../assets/css/style.css">
+    
+    <style>
+        /* ==========================================================================
+           Minimalテーマの資産を活かしたスクラッチ修正アドオン回路（決定版）
+           ========================================================================== */
+
+        /* 【問題2の解決】チェックボックスを如何なる環境でも絶対に非表示にする */
+        #menu-toggle { display: none !important; }
+
+        /* --------------------------------------------------------------------------
+           1. PC大画面側（1025px以上）の処理：完全な2カラムを固定（ハンバーガー不要）
+           -------------------------------------------------------------------------- */
+        @media screen and (min-width: 1025px) {
+            .wrapper {
+                max-width: 860px !important;
+                width: 100% !important;
+                display: flex !important;
+                flex-direction: row !important;
+                justify-content: space-between !important;
+            }
+            header {
+                width: 260px !important;
+                float: none !important;
+                position: sticky;
+                top: 40px;
+                height: fit-content;
+            }
+            section {
+                width: 540px !important;
+                float: none !important;
+                margin-top: 0 !important;
+            }
+            /* 大画面ではハンバーガーボタンを完全隠蔽、メニューは常時露出 */
+            .menu-btn { display: none !important; }
+            .nav-menu { display: block !important; }
+        }
+
+        /* --------------------------------------------------------------------------
+           2. スマホ・タブレット・中画面側（1024px以下）の処理：1カラム＋ハンバーガーメニュー
+           -------------------------------------------------------------------------- */
+        @media screen and (max-width: 1024px) {
+            .wrapper {
+                width: 90% !important;
+                max-width: 640px !important;
+                display: block !important;
+                margin: 0 auto !important;
+            }
+            header {
+                width: 100% !important;
+                float: none !important;
+                position: relative !important;
+                border-bottom: 1px solid #e5e5e5;
+                padding-bottom: 15px;
+                margin-bottom: 25px !important;
+            }
+            section {
+                width: 100% !important;
+                float: none !important;
+                margin-top: 0 !important;
+            }
+            
+            /* この領域下でのみ、三本線ボタンを出現させる */
+            .menu-btn {
+                cursor: pointer;
+                float: right;
+                position: relative;
+                width: 28px;
+                height: 20px;
+                display: block !important;
+                z-index: 10;
+                margin-top: -38px; /* タイトル右側へジャスト配置 */
+            }
+            .menu-btn span, .menu-btn span::before, .menu-btn span::after {
+                content: '';
+                display: block;
+                height: 2px;
+                width: 100%;
+                background-color: #111111;
+                position: absolute;
+                transition: all 0.25s ease-in-out;
+            }
+            .menu-btn span { top: 9px; }
+            .menu-btn span::before { top: -7px; }
+            .menu-btn span::after { top: 7px; }
+            
+            /* ✕印変形ロジック */
+            #menu-toggle:checked ~ .menu-btn span { background-color: transparent; }
+            #menu-toggle:checked ~ .menu-btn span::before { transform: rotate(45deg); top: 0; }
+            #menu-toggle:checked ~ .menu-btn span::after { transform: rotate(-45deg); top: 0; }
+            
+            /* 初期状態は非表示、チェックボックスON（ボタンタップ）で展開 */
+            .nav-menu { display: none; clear: both; margin-top: 15px; }
+            #menu-toggle:checked ~ .nav-menu { display: block !important; }
+        }
+
+        /* --------------------------------------------------------------------------
+           3. メニュー内部・共通意匠デザイン（上書き干渉防止対策）
+           -------------------------------------------------------------------------- */
+        .nav-menu {
+            list-style: none !important;
+            padding: 0 !important;
+            margin: 20px 0 0 0 !important;
+        }
+        .nav-menu li { margin: 10px 0 !important; list-style: none !important; }
+        .nav-menu a { font-weight: bold; text-decoration: none; }
+        
+        .menu-subtitle {
+            font-size: 0.8rem;
+            color: #666666;
+            margin: 25px 0 5px 0;
+            padding-bottom: 3px;
+            border-bottom: 1px dashed #e5e5e5;
+            font-weight: bold;
+        }
+        .sub-menu { list-style: none !important; padding-left: 10px !important; margin: 0 !important; }
+        .sub-menu li { margin: 6px 0 !important; list-style: none !important; font-size: 0.9rem; }
+        .sub-menu a { font-weight: normal !important; color: #444444; }
+        .disabled-link { color: #999999 !important; font-size: 0.85rem; cursor: not-allowed; }
+
+        .archive-list { list-style: none !important; padding-left: 0 !important; }
+        .archive-list li {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 0;
+            border-bottom: 1px solid #eeeeee;
+        }
+        .archive-list .date { color: #666666; font-size: 0.85rem; white-space: nowrap; }
+    </style>
+    <!-- SNSシェア時のカード表示制御回路（OGP） -->
+<meta property="og:title" content="テスト">
+<meta property="og:description" content="これは独自Pythonスクリプトによって出力された最初の記事です。ご希望のURL...">
+<meta property="og:image" content="https://shioiri.github.io/2026/07/19/IMG_9795.jpg">
+<meta name="twitter:image" content="https://shioiri.github.io/2026/07/19/IMG_9795.jpg">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+    <div class="wrapper">
+        <header>
+            <h1><a href="../../../index.html" style="color:inherit; text-decoration:none;">Tomohiro Shioiri</a></h1>
+            <p>アーカイブウェブサイト</p>
+            
+            <!-- スマホ開閉用隠蔽スイッチ -->
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle" class="menu-btn"><span></span></label>
+            
+            <!-- 共通ナビゲーション回路 -->
+            <ul class="nav-menu">
+                <li><a href="../../../index.html">トップページ</a></li>
+                <li><a href="../../../profile.html">プロフィール</a></li>
+                
+                <div class="menu-subtitle">月別アーカイブ</div>
+                <ul class="sub-menu">
+                    <li><a href='../../../2026/07/index.html'>2026年07月</a></li>
+                </ul>
+                
+                <div class="menu-subtitle">分類・検索</div>
+                <ul class="sub-menu">
+                    <li><span class="disabled-link">カテゴリ (準備中)</span></li>
+                    <li><span class="disabled-link">タグ (準備中)</span></li>
+                    <li><span class="disabled-link">検索 (準備中)</span></li>
+                </ul>
+            </ul>
+        </header>
+        
+        <section>
+            <h2>テスト</h2>
+            <time class="post-date-meta" style="display:block; margin-bottom:35px; color:#666; font-size:0.9em;">2026-07-19 | テスト | #Test #GitHub #Python</time>
+            
+            <article>
+                <p>これは独自Pythonスクリプトによって出力された最初の記事です。</p>
+<p>ご希望のURL構造である「年/月/ファイル名.html」が自動生成されるかテストしています。</p>
+<div style="display:block; text-align:center; margin:25px auto; width:100%; max-width:400px;"><a href="IMG_9795.jpg" target="_blank" title="クリックで拡大（別タブ）" style="display:block; text-decoration:none;"><img src="IMG_9795.jpg" alt="テスト画像1" style="max-width:100%; max-height:400px; width:auto; height:auto; display:block; margin:0 auto; border:1px solid #ddd; box-shadow:0 2px 4px rgba(0,0,0,0.05); cursor:pointer;"></a><span style="display:block; text-align:center; font-size:0.85em; color:#666; margin:8px auto 0 auto; padding:0; font-family:sans-serif; line-height:1.2;">テスト画像1</span></div>
+
+<h3>テストの見出し</h3>
+<ol>
+<li>依存関係のない純粋な設計</li>
+<li>管理者不在でも半永久的に存続</li>
+<li>プレーンテキストによる高い保守性</li>
+</ol>
+<div style="display:block; text-align:center; margin:25px auto; width:100%; max-width:400px;"><a href="IMG_9806.HEIC.jpg" target="_blank" title="クリックで拡大（別タブ）" style="display:block; text-decoration:none;"><img src="IMG_9806.HEIC.jpg" alt="テスト画像2" style="max-width:100%; max-height:400px; width:auto; height:auto; display:block; margin:0 auto; border:1px solid #ddd; box-shadow:0 2px 4px rgba(0,0,0,0.05); cursor:pointer;"></a><span style="display:block; text-align:center; font-size:0.85em; color:#666; margin:8px auto 0 auto; padding:0; font-family:sans-serif; line-height:1.2;">テスト画像2</span></div>
+
+<p>このMarkdownファイルが置いてある場所の深さに応じて、CSSやメニューへの相対リンク（<code>../../</code> など）が自動計算されます。</p>
+            </article>
+        </section>
+    </div>
+</body>
+</html>
